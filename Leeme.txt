@@ -2,13 +2,13 @@ Package Control(instalar si se desea instalar otros paquetes en sublime)
 Gestor de paquetes con todas las herramientas.
 
 Alignment:
-Alinea las líneas de multiple y multilinea seleccion.
+Alinea las lÃ­neas de multiple y multilinea seleccion.
 Comando:
-Ctrl + Alt + A : (Seleccionar la línea o lineas)
+Ctrl + Alt + A : (Seleccionar la lÃ­nea o lineas)
 
 Emmet & Emmet Css Snippets:
-Provee de varios shortcuts para la creación de etiquetas.
+Provee de varios shortcuts para la creaciÃ³n de etiquetas.
 Comandos:
 	>html:5
 Crea la estructura de una pagina html.
-
+xddxdxddxdxddxdxdxddd
